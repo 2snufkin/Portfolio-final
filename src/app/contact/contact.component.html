@@ -1,0 +1,61 @@
+<section id="contact" data-aos="fade-up">
+
+    <div class="container mb-5">
+        <h2 i18n>Me Contacter</h2>
+        <span class="bar-title mb-5"></span>
+        <div class="row"
+        data-aos-anchor-placement="top-center">
+            <div class="col-md-3 col-lg-3">
+                <div class="contact-info" >
+                    <img src="assets/images/contact-image.png" alt="image" />
+
+                    <h4 i18n>N'hésitez pas à me contacter</h4>
+                </div>
+            </div>
+            <div class="col-md-9">
+              <form  (ngSubmit)="onsubmit(contact)" #contact=ngForm class="contact-form"    >
+
+              <div class="contact-form">
+                    <div class="form-group">
+                        <label class="control-label col-sm-2" for="name" i18n  >Nom:</label>
+                        <div class="col-sm-10">
+<!--                          name-->
+
+                            <input type="text" class="form-control" id="name" placeholder="Entez votre Identité"
+                                   name="name" ngModel  required i18n-placeholder>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label col-sm-2" for="email" i18n>E-mail:</label>
+                        <div class="col-sm-10">
+                            <input type="email" class="form-control" id="email" i18n-placeholder placeholder="Entrez votre E-mail" name="email" ngModel required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label col-sm-2" for="object" i18n>Objet:</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" id="object" placeholder="Entrez l'objet" i18n-placeholder
+                                   name="subject"  ngModel required>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label col-sm-2" for="comment" i18n>Message:</label>
+                        <div class="col-sm-10">
+                            <textarea class="form-control" rows="5" id="comment"  name="message"  ngModel></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-sm-offset-2 col-sm-10">
+                            <button type="submit" class="btn btn-default" i18n>Envoyer</button>
+                        </div>
+                    </div>
+                </div>
+              </form>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>

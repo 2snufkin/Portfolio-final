@@ -1,0 +1,11 @@
+competence dtails: child
+@Input in the ts , nothing in the HTML
+
+
+competence list = parent
+nothing in the TS, everything in the HTML
+
+-clean the code
+-customize
+-implement lang
+-implement email

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="fr" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="87503e5fb4821b88835697b038edda66df5046a7" datatype="html">
+        <source>A Propos</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ec9b6518d57f473932853b40362c9e963782d7cd" datatype="html">
+        <source>Développeur d&apos;applications Web </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="12be764dcdbeaa8b899dfa7f1c3deedade4b690d" datatype="html">
+        <source> Je suis passionné par le développement, motivé à apporter mon savoir-faire et à apprendre de nouvelles technologies. Ma façon de résoudre les problèmes :<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;about-old&quot;&gt; "/> problèmes complexes - solutions simples<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>. pas l&apos;inverse. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">29,34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1307d9a84d6fcd48f7d4853d2780aa140d66dad1" datatype="html">
+        <source> Concepteur développeur d&apos;applications</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+
+      <trans-unit id="4711110658fe36fbb49bdd16a9be5f38f69bdd50" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;material-icons&quot;&gt;
+"/>
+school
+<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt; "/> Concepteur développeur d&apos;application </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/education/education.component.html</context>
+          <context context-type="linenumber">12,14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6a9301a5ed38c80fffbfed4f753ec00f6c0c9d07" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;material-icons&quot;&gt;
+"/>
+done
+<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt; "/> Titre Professionel<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt; "/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;material-icons&quot;&gt;
+"/>
+location_city
+<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt; "/> Afpa, Paris</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/education/education.component.html</context>
+          <context context-type="linenumber">15,19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="35c076e374207293a9419bca26edefa8b98f0218" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;material-icons&quot;&gt;
+"/>
+school
+<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt; "/> Science de la vie </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/education/education.component.html</context>
+          <context context-type="linenumber">25,27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="553ba4a988cd8e4105edb69d4ca512dfbce43078" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;material-icons&quot;&gt;
+"/>
+done
+<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt; "/> Licence<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt; "/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;material-icons&quot;&gt;
+"/>
+location_city
+<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt; "/> Université de Tel Aviv</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/education/education.component.html</context>
+          <context context-type="linenumber">28,32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="53c791780896b392cbd52949c5a2846ad45e5182" datatype="html">
+        <source>Expériences</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/education/education.component.html</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1a0aea80d070982dbe0592497a469f98153ecb3d" datatype="html">
+        <source>Projet de fin d&apos;études</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/education/education.component.html</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b021fe6ff887f2f7ec9dc6051a0e34659cc1239b" datatype="html">
+        <source>Développement tout en autonomie d&apos;une application e-commerce à partir de zéro</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/education/education.component.html</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3ed3261d48bf95a1119080d615526c2f2fe04c50" datatype="html">
+        <source>Je parle aussi</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/education/education.component.html</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="31a17a6e5afaf7350847a38b9e95897926ba5534" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;material-icons&quot;&gt;
+"/>
+translate
+<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;
+"/>
+Anglais </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/education/education.component.html</context>
+          <context context-type="linenumber">79,82</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3dc30bcd6ed6fa9e974e0dc830f591d8b750eede" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;material-icons&quot;&gt;
+"/>
+translate
+<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;
+ "/> Hébreu</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/education/education.component.html</context>
+          <context context-type="linenumber">86,89</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7aad9100e141ac2750af86d5c07a24f2e8b0635a" datatype="html">
+        <source>Centre d&apos;intérêt</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/education/education.component.html</context>
+          <context context-type="linenumber">97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f68022a3b6d4dfe655c507cd91c7109ac17ec584" datatype="html">
+        <source> Peindre</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/education/education.component.html</context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3efd4c5d2d088b3f0af806dc4a5d47ff3767374f" datatype="html">
+        <source> Echecs</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/education/education.component.html</context>
+          <context context-type="linenumber">110</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e0538c96e9377570e394caaec3d7ca56ea20da91" datatype="html">
+        <source> Jeux vidéo </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/education/education.component.html</context>
+          <context context-type="linenumber">119</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c4befd7931b9686b6378f8d5eae8b6ceb50c37ea" datatype="html">
+        <source>Conception de l’application avec <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;bold&quot;&gt;"/>UML<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;
+                "/> Création d’une base de données avec <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;bold&quot;&gt;"/> mySql<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;
+                "/> Développement de l&apos;<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;bold&quot;&gt;"/>API RESTful<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> avec SpringBoot.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;
+                "/> Développement d’interface utilisateur en TypeScript avec le framework <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;bold&quot;&gt;"/>Angular<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> .<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;
+                "/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;bold&quot;&gt;"/>Téchnologies: SpringData, Angular 11, Angular Materials, Okta <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/education/education.component.html</context>
+          <context context-type="linenumber">57,62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="644ae12c1c40a0adfdeb9f9d8cb646281599aa1b" datatype="html">
+        <source>Site E-Commerce</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/projects/projects.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0c9a5b685d7ba20046f8fd7ce3c1b30e8004b13c" datatype="html">
+        <source><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Technologies:<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/projects/projects.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="fe07e85d24547112a19343597d5373fa01c2a1b1" datatype="html">
+        <source>+ Détail projet </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/projects/projects.component.html</context>
+          <context context-type="linenumber">32,33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="70f566d589d32ec95b1a530f53edb1a5b2862a62" datatype="html">
+        <source>J&apos;ai développé à partir de zéro une « Application Web » de commerce électronique du type Amazon. Le site propose des produits de six catégories. Lorsque l&apos;utilisateur accède au site Web, il a la possibilité de : </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/projects/projects.component.html</context>
+          <context context-type="linenumber">36,39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="db5ab3777db5389dd3413fc99c4e54eabfa60972" datatype="html">
+        <source><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li  &gt; "/> Consulter les produits affichés dans la page d’accueil.<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li  &gt; "/> Consulter les produits par catégorie.<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li  &gt; "/> Consulter les détails du produit.<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li  &gt; "/> Rechercher de produit par son nom.<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li  &gt; "/> Gérer le panier (ajout/ modification/ suppression).<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li  &gt; "/> Se connecter/ s&apos;inscrire / se déconnecter (avec Okta)<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li  &gt; "/> Passer une commande (seulement s&apos;il s’est identifié) et obtenir un numéro de suivi (qui est envoyé par le back-end). <x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/projects/projects.component.html</context>
+          <context context-type="linenumber">43,51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5965de0d1fe7b27f941b3f17b0ecaa013552742d" datatype="html">
+        <source>Compétences</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/competences/competences.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="81043f86c3b8e7f0ff92efd9fecb2869980c4777" datatype="html">
+        <source>Développement</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/competences/competences.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4b95ca1519df09b58e90c1b128d6b374a3766ef0" datatype="html">
+        <source>Outils</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/competences/competences.component.html</context>
+          <context context-type="linenumber">97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bba5ac2c3625549168f1c75538d7d8fbcb3c268f" datatype="html">
+        <source>Me Contacter</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6b740e6b76a51238b0ccf3150ffb9dbf669b7b56" datatype="html">
+        <source>N&apos;hésitez pas à me contacter</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="413a8133b8d436e1aae008ab9e171a6901340ed7" datatype="html">
+        <source>Nom:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="07bb467799cf3299a4f288d517eba306175c3940" datatype="html">
+        <source>Entez votre Identité</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="485aea92f94ccf8d3176304df626aedd25aca92b" datatype="html">
+        <source>E-mail:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f6f708ac922f3dcd3d486c95a62faa64d4c5c1b7" datatype="html">
+        <source>Entrez votre E-mail</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e5d98823666474c9e93d671eaf66bd83300a7e4d" datatype="html">
+        <source>Objet:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="183115e18708df27256115a72e6eaf38708f477d" datatype="html">
+        <source>Entrez l&apos;objet</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8865ed3834a850ae6123ce54f380aac3f0b88fe2" datatype="html">
+        <source>Message:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="dee4f8a57a983f799be11db23fe7b71e8db16c20" datatype="html">
+        <source>Envoyer</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b02fc7b0fbb19c4a46e2e4fe9a2f772d72072fb4" datatype="html">
+        <source> Accueil</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ea4d62c0d5ce27c8b42d97be547dd384afb61eed" datatype="html">
+        <source> A Propos</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c582e9998de7a2bd28c27aa5b6065f16e16b4122" datatype="html">
+        <source>Je suis Développeur <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;typed&quot;&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9227d690ad41744e446f5e1fc82d7812383ee097" datatype="html">
+        <source>Your message has been sent successfully</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialog/dialog.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
