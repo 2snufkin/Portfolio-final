@@ -57,6 +57,7 @@ h1{
 }
 .innov{
   text-transform: uppercase;
+  font-weight: bold;
   background: linear-gradient(to right, #0867d1 0%, #c40079 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;

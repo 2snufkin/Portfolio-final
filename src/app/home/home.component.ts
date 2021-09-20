@@ -8,7 +8,6 @@ import Typed from 'typed.js';
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent implements OnInit {
-  src = 'url(assets/1.jpg)';
   list = ['innovation.start(with_me)'];
 
   constructor() {
