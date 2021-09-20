@@ -8,12 +8,11 @@ import Typed from 'typed.js';
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent implements OnInit {
-  src = 'url(assets/images/lamp.jpg)';
-  list =['innovation.start(with_me)'];
+  src = 'url(assets/1.jpg)';
+  list = ['innovation.start(with_me)'];
 
   constructor() {
   }
-
 
 
   ngOnInit(): void {
@@ -28,7 +27,7 @@ export class HomeComponent implements OnInit {
     let typed = new Typed('.typed', options);
     typed.reset(true);
 
-   }
+  }
 
 
 }

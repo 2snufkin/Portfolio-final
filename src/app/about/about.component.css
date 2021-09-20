@@ -64,6 +64,7 @@ h3 {
 .img {
   filter: grayscale(1);
   border-radius: 1.5rem;
+  background-color: #149ddd;
 }
 
 .about-old {
@@ -85,4 +86,26 @@ h3 {
 
 .material-icons {
   color: #149ddd;
+}
+.slideshow-wrapper {
+  position:relative;
+  float: left;
+}
+.title {
+  position: absolute;
+  left: 0;
+  right: 0;
+  text-align: center;
+  z-index: 2;
+}
+.slideshow-wrapper:before {
+  content: '';
+  position:absolute;
+  top:0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(to bottom, rgba(0,0,0, 0.2) 0%,rgba(20, 157, 221, 0.2) 100%);
+  border-radius: 1.5rem;
+  z-index: 1;
 }

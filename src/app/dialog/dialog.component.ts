@@ -6,8 +6,6 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./dialog.component.css']
 })
 export class DialogComponent implements OnInit {
-  title = 'Message sent';
-  body = 'Your message has been sent successfully';
   constructor() { }
 
   ngOnInit(): void {

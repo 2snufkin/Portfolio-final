@@ -30,7 +30,6 @@
           <context context-type="linenumber">56</context>
         </context-group>
       </trans-unit>
-
       <trans-unit id="4711110658fe36fbb49bdd16a9be5f38f69bdd50" datatype="html">
         <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;material-icons&quot;&gt;
 "/>
@@ -318,8 +317,8 @@ translate
           <context context-type="linenumber">8</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="9227d690ad41744e446f5e1fc82d7812383ee097" datatype="html">
-        <source>Your message has been sent successfully</source>
+      <trans-unit id="0b6d7def911e404ff65dc240de4436f2308d8829" datatype="html">
+        <source>Votre message a été envoyé avec succès</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/dialog/dialog.component.html</context>
           <context context-type="linenumber">4</context>

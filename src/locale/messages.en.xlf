@@ -508,8 +508,8 @@ translate
       </trans-unit>
             <!--     unit -->
 
-      <trans-unit id="9227d690ad41744e446f5e1fc82d7812383ee097" datatype="html">
-        <source>Your message has been sent successfully</source>
+      <trans-unit id="0b6d7def911e404ff65dc240de4436f2308d8829" datatype="html">
+        <source>Votre message a été envoyé avec succès</source>
         <target>Your message has been sent successfully</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/dialog/dialog.component.html</context>
